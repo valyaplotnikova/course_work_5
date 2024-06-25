@@ -1,0 +1,12 @@
+venv/
+.idea/
+*.pyc
+__pycash__
+*.log
+*~
+target/
+output/
+release/
+debug/
+__init__
+.coverage
