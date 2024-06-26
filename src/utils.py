@@ -1,5 +1,3 @@
-from decimal import Decimal
-
 import psycopg2
 import requests
 
@@ -165,4 +163,4 @@ def user_iterations():
             break
 
 
-user_iterations()
+
