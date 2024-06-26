@@ -10,3 +10,4 @@ release/
 debug/
 __init__
 .coverage
+database.ini
